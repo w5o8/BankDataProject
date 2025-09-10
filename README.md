@@ -37,17 +37,3 @@ A **console-based Bank Management System** built in **C++** that simulates core 
 2. Compile the project with a C++ compiler, e.g.:
    ```bash
    g++ main.cpp -o BankSystem
-
-📸 Demo (Console Output)
-=============================
-	Main Menu Screen
-=============================
-[ 1 ] Show Client List
-[ 2 ] Add New Client
-[ 3 ] Delete Client
-[ 4 ] Update Client Info
-[ 5 ] Find Client
-[ 6 ] Transactions
-[ 7 ] Exit
-=============================
-Choose [1 to 7]:
